@@ -1,5 +1,6 @@
 
 # The Startup Death Clock
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/ErikOrjehag/startupdeathclock?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 The startup death clock tells you what day your startup will run out of money.
 
